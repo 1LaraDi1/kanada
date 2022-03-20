@@ -1,0 +1,46 @@
+
+@import 'https://fonts.googleapis.com/css2?family=Hubballi&family=Montserrat:wght@500&display=swap';
+
+
+    
+body {
+  font-weight: 500;
+  margin: 0 auto;
+  max-width: 60em;
+  line-height: 1.5;
+
+}
+main {
+    padding: 1em;
+}
+h1,h2,h3,h4,h5,h6 {
+    padding-top: 1em
+}
+a , strong {
+    color: #b24d09;
+}
+
+h1,h2,h3,h4,h5,h6 {color: skyblue;}
+
+    
+header {
+  background-image: url("hintergrund2.jpg");
+   background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 1.2;
+  padding: 10vw 2em;
+  text-align: center;
+}
+
+img {
+	border: 1px solid grey;
+}
+h1 {
+    font-size: 40px;
+}
+
+body {
+	font-family:'Montserrat', sans-serif, Arial, sans-serif;
+
+}
